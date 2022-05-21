@@ -1,0 +1,21 @@
+{
+  "name": "game-bot-vk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ssr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vk-io/scenes": "^1.1.0",
+    "@vk-io/session": "^2.1.0",
+    "dotenv": "^10.0.0",
+    "log4js": "^6.3.0",
+    "mariadb": "^2.5.4",
+    "mongoose": "^6.0.12",
+    "vk-io": "^4.3.2"
+  }
+}
